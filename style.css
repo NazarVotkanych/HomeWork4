@@ -1,0 +1,42 @@
+.target {
+    width: 900px;
+    height: 600px;
+    background: black;
+}
+.header {
+    width: 900px;
+    height: 200px;
+    background: yellow;
+}
+.center {
+    width: 900px;
+    height: 400px;
+    background: burlywood;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.left {
+    width: 600px;
+    height: 400px;
+    background: #ff00fb;
+
+}
+.right {
+    width: 300px;
+    height: 400px;
+    background: yellowgreen;
+}
+.square {
+    width: 200px;
+    height: 200px;
+    background: grey;
+    margin: 5px;
+}
+.triangle {
+    display: flex;
+}
+.color {
+    display: flex;
+}
+
